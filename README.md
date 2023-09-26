@@ -43,7 +43,7 @@ The React To-Do List is a simple web application that allows users to manage the
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/react-todo-list.git
+   git clone https://github.com/nancy262003/To-do-list.git
    ```
 
 2. Navigate to the project directory.
